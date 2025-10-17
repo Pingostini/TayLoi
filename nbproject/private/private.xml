@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/web/incidencias.jsp</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/src/java/com/empresa/servlets/PageServlet.java</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/web/escanear.jsp</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/src/java/com/empresa/utils/RecepcionDAO.java</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/web/operaciones.jsp</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/src/java/com/empresa/servlets/DashboardServlet.java</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/src/java/com/empresa/utils/DashboardDAO.java</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/src/java/com/empresa/servlets/RecepcionServlet.java</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/src/java/com/empresa/servlets/EscanearServlet.java</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/src/java/com/empresa/utils/TestUsuarios.java</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/src/java/com/empresa/servlets/LogoutServlet.java</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/src/java/com/empresa/model/ProductoModel.java</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/src/java/com/empresa/servlets/IncidenciaServlet.java</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/web/WEB-INF/views/dashboard.jsp</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/src/java/com/empresa/model/RecepcionModel.java</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/src/java/com/empresa/utils/ConexionDB.java</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/src/java/com/empresa/utils/ProductoDAO.java</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/src/java/com/empresa/servlets/ActualizarProductoServlet.java</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/src/java/com/empresa/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/web/index.jsp</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/web/layout.jsp</file>
+            <file>file:/C:/Users/Mauricio/OneDrive/Documentos/NetBeansProjects/TaiLoy/web/login.jsp</file>
+        </group>
+    </open-files>
+</project-private>
